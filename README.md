@@ -43,4 +43,4 @@ Feel free to reach out via email or connect with me on LinkedIn. I am always ope
 
 ---
 
-![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshinEfati&show_icons=true&theme=radical)
