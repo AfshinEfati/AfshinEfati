@@ -15,8 +15,6 @@ I am a passionate and dedicated backend developer specializing in PHP and Larave
 - **OS**: Linux
 
 
-## Contributions
-- [Repository Name](https://github.com/yourusername/repository-name): A brief description of your contribution.
 
 ## Get in Touch
 Feel free to reach out via email or connect with me on LinkedIn. I am always open to discussing new projects, collaborations, or opportunities.
