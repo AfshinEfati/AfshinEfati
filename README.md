@@ -14,26 +14,6 @@ I am a passionate and dedicated backend developer specializing in PHP and Larave
 - **Tools**: Docker, Git
 - **OS**: Linux
 
-## Projects
-### 1. [Project Name](https://github.com/yourusername/project-name)
-**Description**: A brief description of the project, its purpose, and the technologies used.
-
-**Technologies**: PHP, Laravel, MySQL, Docker
-
-**Features**:
-- Feature 1
-- Feature 2
-- Feature 3
-
-### 2. [Project Name](https://github.com/yourusername/project-name)
-**Description**: A brief description of the project, its purpose, and the technologies used.
-
-**Technologies**: Python, Flask, PostgreSQL, Docker
-
-**Features**:
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Contributions
 - [Repository Name](https://github.com/yourusername/repository-name): A brief description of your contribution.
