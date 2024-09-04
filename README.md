@@ -1,5 +1,5 @@
 # 💫 About Me:
-on marcopro.co backend<br>php - laravel - ai - python<br>Python- ai<br>Python<br>php - laravel - server Linux - MySQL <br>must my repositories be on private git servers 
+<br>php - laravel - ai - python<br>Python- ai<br>Python<br>php - laravel - server Linux - MySQL <br>must my repositories be on private git servers 
 
 
 ## 🌐 Socials:
